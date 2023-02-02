@@ -52,7 +52,7 @@ git pull origin main
 
 - Bài tập được giao trên lớp yêu cầu nộp đầy đủ trước khi học lab tiếp theo 3 ngày để thầy kiểm tra và đánh giá quá trình học tập
 
-- Có bất kì vấn đề gì liên quan đến git có thể nhắn tin hỏi lại trên gruop chat
+- Có bất kì vấn đề gì liên quan đến git có thể nhắn tin hỏi lại trên group chat
 
 - Học thêm về git:
   - https://git-scm.com/book/en/v2
