@@ -1,4 +1,4 @@
-- Clone git repository về
+- Clone git repository về máy
 
 ```
 git clone https://github.com/oguriedu/PythonPracticeLab.git
