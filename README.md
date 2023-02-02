@@ -38,6 +38,22 @@ git push origin NgoQuangDai-DHTI10A1HN-1122334455/lab1
 
 - Trường hợp có thay đổi như fix comment, update source code trên feature hiện tại, commit rồi push tiếp lên, không tạo pull request mới.
 
+
+**Lưu ý**
+- Sau mỗi buổi học nhớ checkout lại về **nhánh chính** của bạn và pull lại từ nhánh main để cập nhập bài học
+
+```
+git checkout NgoQuangDai-DHTI10A1HN-1122334455
+
+git pull origin main
+```
+
+- Lưu ý mỗi khi làm lab mới đều checkout lại về **nhánh chính** của bạn rồi mới tạo nhánh mới
+
+- Bài tập được giao trên lớp yêu cầu nộp đầy đủ trước khi học lab tiếp theo 3 ngày để thầy kiểm tra và đánh giá quá trình học tập
+
+- Có bất kì vấn đề gì liên quan đến git có thể nhắn tin hỏi lại trên gruop chat
+
 - Học thêm về git:
   - https://git-scm.com/book/en/v2
   - https://learngitbranching.js.org/?locale=vi
